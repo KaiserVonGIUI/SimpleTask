@@ -87,4 +87,8 @@ Checking Gradle settings:
 
 Opening Android Studio and verifying the SDK configuration.
 
+## 6. Download-link
+
+`https://drive.google.com/file/d/1qcO6CisWQuuXGzRBcnDKnUh46Ahm0EmQ/view?usp=sharing`
+
 The SimpleTask application is intended for personal use and will not be published on Google Play.
